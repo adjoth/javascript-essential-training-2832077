@@ -1,7 +1,27 @@
-# JavaScript Essential Training
+# Courses
+
+1.  ✅ - JavaScript: A Brief Introduction
+2.  ✅ - Get Up and Running with JS
+3.  ❌ - Objects
+4.  ❌ - Sidebar: String Output
+5.  ❌ - DOM
+6.  ❌ - Sidebar: Variables and Data Types
+7.  ❌ - Arrays
+8.  ❌ - Functions and Methods
+9.  ❌ - Events
+10. ❌ - Troubleshooting and Validating JS
+
+## Credits
+
+LinkedIn Learning: [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/tools-for-working-with-javascript)
+
+Created by: [Morten Rand-Hendriksen](https://www.linkedin.com/in/mortenrandhendriksen)
+
+## JavaScript Essential Training
+
 This is the repository for the LinkedIn Learning course JavaScript Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![JavaScript Essential Training][lil-thumbnail-url] 
+![JavaScript Essential Training][lil-thumbnail-url]
 JavaScript is a scripting language of the web. As the web evolves from a static to a dynamic environment, technology focus is shifting from static markup and styling—frequently handled by content management systems or automated scripts—to dynamic interfaces and advanced interaction. Once seen as optional, JavaScript is now becoming an integral part of the web, infusing every layer with its script.
 
 Through practical examples and mini-projects, this course helps you build your understanding of JavaScript piece by piece, from core principles like variables, data types, conditionals, and functions through advanced topics including loops, and DOM scripting. Along the way, instructor Morten Rand-Hendriksen provides challenges that allow you to put your new skills to the test.
