@@ -3,7 +3,7 @@
  * @link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Instance_methods
  */
 
-let backpackContents = ["piggy", "headlamp", "pen"];
+let backpackContents = ["pig", "headlamp", "pen"];
 
 console.log(backpackContents);
 
@@ -12,9 +12,10 @@ console.log(backpackContents);
 //   console.log(item);
 // });
 
-// let longItems = backpackContents.find(function (item) {
-//   if (item.length >= 5) {
-//     return item;
-//   }
-// });
-// console.log("longItems:", longItems);
+let longItems = backpackContents.find(function (item) {
+  if (item.length >= 5) {
+    return item;
+  }
+});
+
+console.log("longItems:", longItems);
