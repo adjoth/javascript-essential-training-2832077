@@ -3,7 +3,7 @@
 1.  ✅ - JavaScript: A Brief Introduction
 2.  ✅ - Get Up and Running with JS
 3.  ✅ - Objects
-4.  ❌ - Sidebar: String Output
+4.  ✅ - Sidebar: String Output
 5.  ❌ - DOM
 6.  ❌ - Sidebar: Variables and Data Types
 7.  ❌ - Arrays
