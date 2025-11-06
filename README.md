@@ -7,7 +7,7 @@
 5.  ✅ - DOM
 6.  ✅ - Sidebar: Variables and Data Types
 7.  ✅- Arrays
-8.  ❌ - Functions and Methods
+8.  ✅ - Functions and Methods
 9.  ❌ - Events
 10. ❌ - Troubleshooting and Validating JS
 

@@ -24,3 +24,6 @@ const backpack = {
     this.strapLength.right = lengthRight;
   },
 };
+
+// Skipping practice
+console.log(backpack);

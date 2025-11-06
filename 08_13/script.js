@@ -54,21 +54,26 @@ newArticle.innerHTML = content;
 
 main.append(newArticle);
 
+// Changed from nested if-else to switch statement
 const usedStatus = () => {
   let age = everydayPack.backpackAge();
   let description;
-  if (age >= 30) {
-    if (age >= 365) {
-      if (age >= 1095) {
-        description = "old";
-      } else {
-        description = "used";
-      }
-    } else {
-      description = "lightly used";
-    }
-  } else {
-    description = "new";
+
+  switch (true) {
+    case age < 30:
+      description = "New";
+      break;
+    case age >= 30 && age < 365:
+      description = "Lightly Used";
+      break;
+    case age >= 365 && age < 1095:
+      description = "Used";
+      break;
+    case age >= 1095:
+      description = "old";
+      break;
+    default:
+      console.log(`There is no description for ${age}.`);
   }
 
   console.log(`
@@ -77,4 +82,4 @@ const usedStatus = () => {
   `);
 };
 
-usedStatus()
+usedStatus();
