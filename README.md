@@ -1,4 +1,10 @@
-# Courses
+# Details
+
+Lessons on JavaScript
+
+Status: Completed on 11/06/2025
+
+## Courses Chapters
 
 1.  ✅ - JavaScript: A Brief Introduction
 2.  ✅ - Get Up and Running with JS
@@ -8,8 +14,8 @@
 6.  ✅ - Sidebar: Variables and Data Types
 7.  ✅- Arrays
 8.  ✅ - Functions and Methods
-9.  ❌ - Events
-10. ❌ - Troubleshooting and Validating JS
+9.  ✅ - Events
+10. ✅ - Troubleshooting and Validating JS
 
 ## Credits
 
